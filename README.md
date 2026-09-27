@@ -15,6 +15,12 @@ The cost is that a tag cannot move. **Replacing an image means a new tag** --
 the same commit. Overwriting a file and re-pushing `v1` will not reach anyone
 who has already loaded the old one.
 
+## What is here
+
+    demos/   the eight downscaled panoramas, 2048 and 4096
+    icons/   logo2.png and favicon.ico, byte-for-byte the files the site used
+             to serve itself -- not resized, not re-encoded
+
 ## What belongs here
 
 Only images the public site shows. Nothing private, nothing unreleased: this
