@@ -28,7 +28,9 @@ We sell nothing, build no profile of you, and don't track you across other apps.
 
 ## Ask Blueezee
 
-Questions you type into **Ask Blueezee** are sent to Google Gemini to write the answer, so don't type personal details. Chats aren't saved; we only keep a count of your questions today.
+Questions you type into **Ask Blueezee** are sent to Google Gemini to write the answer. Google may use them to improve its products, and people at Google may read them, so don't type personal details.
+
+Your chat is kept on your phone only, for 7 days after your last message, so you can come back to an answer. To remove it sooner, tap **⋮** then **Clear chat**. Signing out also clears it. We don't save chats on our servers; we only keep a count of your questions today.
 
 ## When you delete your account
 
