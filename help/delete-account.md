@@ -10,9 +10,11 @@ app_version: 1.9.3
 
 Deleting your account is permanent. It can't be undone.
 
+**Before you delete:** unused tokens are lost, and your .bz360 backups stop opening. To keep your 360°s as pictures that open anywhere, send them out first with **Share image**.
+
 ## In the app
 
-1. Tap your profile picture at the top of the screen, then **Account Settings**.
+1. Tap your account icon at the top of the screen, then **Account Settings**.
 2. Tap **Delete Account**.
 3. Tick **I understand this is permanent**.
 4. Tap **Delete My Account**.
@@ -35,4 +37,4 @@ Tap **Or request deletion on our web page**, or visit bluez360.web.app/delete-ac
 - **Your .bz360 backups stop opening**, for good – even if you sign up again with the same email.
 - Signing up again with the same email doesn't give you the welcome tokens a second time.
 
-See also: [Your privacy](privacy.md), [Back up to your phone](local-backup.md), [Signing in](sign-in.md), [Contact us](contact-us.md)
+See also: [Your privacy](privacy.md), [Back up to your phone](local-backup.md), [Share a 360 image](share-image.md), [Signing in](sign-in.md), [Contact us](contact-us.md)

@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 Raw data is what your 360 was built from: the single shots from Photo mode, or the recording from a video sweep.
 
+**Why keep it?** Raw data is what lets you stitch a 360 again later, for example after an app update improves stitching. Once it's deleted, that 360 can't be stitched again. Want a copy before you delete it? Back the 360 up with **Raw data** ticked, and keep the backup file somewhere safe.
+
 To see it, long-press a 360 in its area and tap **View raw data**.
 
 - **Photo mode:** shots are listed in the order you took them, grouped by row (Horizon, Upper Horizon, Zenith, Lower Horizon, Nadir). Switch between **List** and **Grid**, or swipe. Tap a shot to see it full screen and swipe through the whole set.
@@ -23,4 +25,4 @@ To see it, long-press a 360 in its area and tap **View raw data**.
 
 If you delete both the recording and the frames, the 360 can't be stitched again. Deleting raw data doesn't remove your finished 360 image.
 
-See also: [Stitching on your phone](stitching.md), [Capture a 360](capture-a-360.md), [Video sweep capture](video-sweep.md)
+See also: [Stitching on your phone](stitching.md), [Capture a 360](capture-a-360.md), [Video sweep capture](video-sweep.md), [Back up to your phone](local-backup.md)

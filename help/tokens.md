@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 Tokens pay for stitching. **1 token = 1 stitch**: each time your phone finishes stitching a 360°, one token is used and the 360° is yours to view until you stitch it again.
 
+You only pay for what you stitch. Capturing, viewing, sharing and backing up never use tokens.
+
 New accounts get 10 free tokens the first time they sign in. This welcome gift is given once per Google account.
 
 ## Locked previews
@@ -25,6 +27,6 @@ A locked 360° is not sent with **Share image** until you unlock it.
 - Stitching a 360° again costs another token.
 - Tokens work offline too. Your balance updates when you are back online.
 - Demo 360s, and 360s you open from your phone's gallery, never need a token.
-- To see your balance, tap the Bluez360 logo, then **Account Settings**. The **Tokens** card shows how many you have. Tap it to open the Tokens screen.
+- To see your balance, tap your account icon, then **Account Settings**. The **Tokens** card shows how many you have. Tap it to open the Tokens screen.
 
 See also: [Earning tokens](earn-tokens.md) · [Buying tokens](buy-tokens.md) · [Invite codes](invite-codes.md)

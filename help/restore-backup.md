@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 There is no import button. You open the **.bz360** file itself.
 
+**Moving to a new phone?** Copy your .bz360 files to it, install Bluez360, then open each file there and sign in with the same Google account.
+
 1. Tap the file in your Files app (look in **Download/Bluez360**), or share it to Bluez360.
 2. Sign in with the account that made the backup.
 3. If some of its 360°s are already on this phone, you'll see **Already on this phone**. Choose **Skip all** or **Replace all**.

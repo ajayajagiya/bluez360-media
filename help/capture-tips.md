@@ -18,6 +18,7 @@ app_version: 1.9.3
 - In Photo mode, pause on each dot until the ring fills.
 - In a video sweep, turn slowly and steadily. In dim light the app asks you to turn even more slowly, so take your time indoors.
 - In Photo mode, the brightness is set by your first shot and kept for the whole set, so all the shots match.
+- Capture when the scene is still. People, cars or trees moving between shots can look cut or doubled where the shots join.
 - If a stitch says the shots could not be lined up, capture again, keeping the phone level and pausing on each dot.
 
 Want the guide again? Tap the **?** help button at the top right of the Photo capture screen.

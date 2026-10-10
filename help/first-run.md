@@ -32,7 +32,7 @@ If you close the app part way, the walk-through carries on where you left off. I
 Each main screen has its own short tips. To see them:
 
 1. Go to the screen you want help with.
-2. Tap your profile picture at the top of the screen.
+2. Tap your account icon at the top of the screen.
 3. Tap **How to use**.
 
 Tap **Next** to move through the tips, **Got it** on the last one, or **SKIP** to close them.

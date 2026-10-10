@@ -12,7 +12,7 @@ Bluez360 comes with three sample 360s, so you can try the viewer before you capt
 
 ## Find them
 
-1. In the Gallery, tap your profile picture (or the Bluez360 logo) at the right end of the search bar.
+1. In the Gallery, tap your account icon at the right end of the search bar.
 2. Choose **Demos**.
 3. Tap a demo to open it in the 360 viewer.
 

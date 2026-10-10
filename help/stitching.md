@@ -21,8 +21,12 @@ Stitching keeps going if you leave the app. A notification shows each step, and 
 
 Each finished stitch uses 1 token. A failed or cancelled stitch uses none. If you run out, a 360 stitched straight after capture shows as a locked preview until you unlock it, and **Add to stitching queue** is greyed out until you get a token.
 
-To stitch a finished 360 again, long-press it and tap **Stitch again**. That costs another token.
-
 If **On phone** is greyed out, this phone can't stitch 360s itself.
+
+## Stitching a 360 again
+
+Why stitch again? Every app update can bring stitching fixes and improvements. Stitching an older 360 again runs the newer stitching on its original shots, so it can come out better than before.
+
+To stitch a finished 360 again, long-press it and tap **Stitch again**. It needs the 360's original shots still on the phone, and it costs another token.
 
 See also: [The stitching queue](stitching-queue.md), [HD or 4K](stitch-quality.md), [What tokens are](tokens.md)

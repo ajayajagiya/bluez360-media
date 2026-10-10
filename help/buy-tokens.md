@@ -8,11 +8,11 @@ app_version: 1.9.3
 
 # Buying tokens
 
-You can buy tokens in packs through Google Play. The packs are on the Tokens screen under **Buy tokens** (tap the Bluez360 logo, then **Account Settings**, then the **Tokens** card), and on the **Unlock this 360°** screen.
+You can buy tokens in packs through Google Play. The packs are on the Tokens screen under **Buy tokens** (tap your account icon, then **Account Settings**, then the **Tokens** card), and on the **Unlock this 360°** screen.
 
 ## The packs
 
-There are four packs: **25**, **100**, **250** and **750** tokens. Each pack shows its price in your currency, as set by Google Play, and what that works out to per token ("each"). Prices can differ by country, so check them in the app.
+There are four packs: **25**, **100**, **250** and **750** tokens. Each pack shows its price in your currency, as set by Google Play, and what that works out to per token ("each"). Prices can differ by country, so check them in the app. Compare the "each" price to see which pack is the best value for you.
 
 ## How to buy
 

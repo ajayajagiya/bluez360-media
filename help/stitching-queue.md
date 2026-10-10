@@ -8,9 +8,9 @@ app_version: 1.9.3
 
 # The stitching queue
 
-Tap your profile picture (top right), then **Stitching Queue**. You can also tap **View** after a capture. It only appears when stitching is set to **On phone**.
+Tap your account icon (top right), then **Stitching Queue**. You can also tap **View** after a capture. It only appears when stitching is set to **On phone**.
 
-There are two tabs, **Active** and **Completed**; tap or swipe between them. One 360 stitches at a time.
+There are two tabs, **Active** and **Completed**; tap or swipe between them. One 360 stitches at a time, because stitching needs a lot of the phone's memory.
 
 Cards in **Active** show:
 
@@ -21,7 +21,7 @@ Cards in **Active** show:
 
 **Cancel** stops a stitch or takes it out of the queue. **Pause the queue** lets the running stitch finish, then starts nothing new until you tap **Start stitching**.
 
-In **Completed**, tap **Preview**, **Restitch** (costs 1 token) or **Remove**.
+In **Completed**, tap **Preview**, **Restitch** (costs 1 token) or **Remove**. Restitching is worth it after an app update, which can bring stitching fixes and improvements.
 
 **If a stitch fails:**
 

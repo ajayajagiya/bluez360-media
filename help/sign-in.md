@@ -24,7 +24,11 @@ After that you stay signed in, even when you close the app.
 
 ## Logging out
 
-Tap your profile picture at the top of the screen, tap **Logout**, then confirm with **Log out**. Your projects stay on the phone. Sign in again with the same account to see them.
+Tap your account icon at the top of the screen, tap **Logout**, then confirm with **Log out**. Your projects stay on the phone. Sign in again with the same account to see them.
+
+## Switching accounts
+
+To use a different Google account, log out (see above), tap **Continue with Google** and pick the other account. Each account keeps its own projects, 360s and tokens, so switching back shows your work again.
 
 ## If sign-in doesn't work
 

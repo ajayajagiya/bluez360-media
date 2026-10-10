@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 **Local backup** saves a 360°, an area or a whole project as one **.bz360** file in the **Download/Bluez360** folder on your phone. It is a backup for you: it opens only in Bluez360, signed in to the same account that made it.
 
+**When to back up?** Your 360°s are kept only on this phone, so back up before you delete something, reinstall the app or move to a new phone. Then send the file somewhere off the phone, like your cloud storage or a computer.
+
 ## Make a backup
 
 1. Press and hold the 360°, area or project to open its menu.

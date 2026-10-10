@@ -21,6 +21,12 @@ Your 360s are kept in **projects** (for example, a shop or a house), with **area
 
 Your photos stay on your phone. They are never uploaded to us.
 
-The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Open **Demos** from your profile picture to see sample 360s.
+The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Open **Demos** from your account icon to see sample 360s.
 
-See also: [Signing in](sign-in.md), [Capture a 360](capture-a-360.md), [Stitching on your phone](stitching.md), [What tokens are](tokens.md), [How your 360s are organised](projects-and-areas.md)
+## Common questions
+
+- **Is it free?** New accounts start with 10 free tokens. Each stitch uses one token, and you can earn more for free or buy them. Viewing, sharing, backing up and the demos never use tokens.
+- **Does it work on iPhone?** No. Bluez360 is for Android phones with Android 12 or newer.
+- **Do I need a special camera?** No. Your phone's own camera is enough.
+
+See also: [Signing in](sign-in.md), [Capture a 360](capture-a-360.md), [Stitching on your phone](stitching.md), [What tokens are](tokens.md), [How your 360s are organised](projects-and-areas.md), [Earning tokens](earn-tokens.md)

@@ -60,4 +60,5 @@ Help & support), or email **bluez360.studio@gmail.com**.
 - `settings` · **Settings** — theme and the other options in one place
 - `delete-account` · **Delete your account** — what is deleted, and why your backups stop opening
 - `privacy` · **Your privacy** — what Bluez360 keeps, and what never leaves your phone
+- `blueezee` · **Blueezee** — who Blueezee is, what she can and can't help with, and how your chat is kept
 - `contact-us` · **Contact us** — when Blueezee can't help

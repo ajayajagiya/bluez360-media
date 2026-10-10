@@ -22,6 +22,10 @@ To build it up:
 
 Names are unique on each level. If you pick a name that is already used there, the app adds a number, like "Kitchen (2)".
 
+**Tip:** make one project per place and one area per room or spot. Then a whole house or shop sits together, and you can share or back it up in one go.
+
+**Can I move a 360 to another project?** No. **Move** only moves a 360 to another area in the same project.
+
 Tap the star on a project card to mark it as a favourite. Your phone's back button or gesture takes you up one level.
 
-See also: [Reel, Tile and Grid views](gallery-views.md), [The Project explorer](project-explorer.md), [Rename, edit and delete](rename-and-delete.md), [Capture a 360](capture-a-360.md)
+See also: [Reel, Tile and Grid views](gallery-views.md), [The Project explorer](project-explorer.md), [Rename, edit and delete](rename-and-delete.md), [Capture a 360](capture-a-360.md), [Back up to your phone](local-backup.md)

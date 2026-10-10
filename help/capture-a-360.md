@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 This page covers **Photo** capture mode, where you follow dots. For the default **Video** mode, see [Video sweep capture](video-sweep.md).
 
+Photo mode takes longer than a video sweep, but each of its shots uses your camera's full resolution.
+
 1. Open an area and tap **Add New 360°**. Allow the camera if asked.
 2. The first time, a guide called **Turn the phone, not your body** appears. Tap **Got it**.
 3. On **Calibrate compass**, move your phone in a figure-8, hold it upright facing forward, then tap **Start capture**.

@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 A project can have a place on the map. Only projects have one; areas and 360s don't.
 
+**Why add one?** The project's map shows in Reel view, and you can sort your projects by **Location** in the Gallery.
+
 ## Open the map
 
 - Long-press the project in the Gallery and choose **Add Location** (or **Change Location** if it already has one).

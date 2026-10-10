@@ -8,15 +8,15 @@ app_version: 1.9.3
 
 # Contact us
 
-## Ask Blueezee first
+## Try Blueezee first
 
 Blueezee is the help chat inside the app. She answers from these help pages.
 
-1. Tap your profile picture at the top of the screen, then **Account Settings**.
+1. Tap your account icon at the top of the screen, then **Account Settings**.
 2. Tap **Help & support**.
-3. Type your question in **Ask Blueezee**.
+3. Type your question to **Blueezee**.
 
-Ask Blueezee needs an internet connection, and there's a daily limit on questions. Please don't type personal details.
+Blueezee needs an internet connection, and there's a daily limit on questions. Please don't type personal details.
 
 ## Email us
 

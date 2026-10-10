@@ -12,7 +12,7 @@ Every account has its own invite code. When a friend uses your code and makes th
 
 ## Share your code
 
-1. Tap the Bluez360 logo, then **Invite friends**. (Or tap **Invite a friend** on the Tokens screen.)
+1. Tap your account icon, then **Invite friends**. (Or tap **Invite a friend** on the Tokens screen.)
 2. Your code is under **Your code**. Tap the copy button to copy it, or tap **Share invite** to send a message with a link to the app.
 
 If your friend installs Bluez360 from your link, your code is added for them automatically when they sign in. Friends who already have the app can type the code in.
@@ -21,7 +21,7 @@ If your friend installs Bluez360 from your link, your code is added for them aut
 
 ## Use a friend's code
 
-1. Open the Tokens screen: Bluez360 logo › **Account Settings** › **Tokens** card.
+1. Open the Tokens screen: your account icon › **Account Settings** › **Tokens** card.
 2. Under **Have a friend's code?**, type the code and tap **Apply code**.
 3. You'll see "Code accepted. You get 5 tokens after your first 360°."
 

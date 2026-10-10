@@ -10,6 +10,8 @@ app_version: 1.9.3
 
 The Project explorer is a side panel for jumping straight to another project or area, without going back through each screen.
 
+It's handiest when you have many projects and want to hop between areas quickly.
+
 ## Open it
 
 On the Gallery, a project or an area, either:

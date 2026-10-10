@@ -12,7 +12,7 @@
 - q: "What can I do with this app?"
   expect: what-is-bluez360
 - q: "Does Bluez360 upload my photos?"
-  expect: privacy
+  expect: [privacy, what-is-bluez360]
 - q: "How do I sign in?"
   expect: sign-in
 - q: "How do I log out?"
@@ -34,7 +34,7 @@
 - q: "Will my backups still work after I delete my account?"
   expect: delete-account
 - q: "Is my chat with Blueezee saved?"
-  expect: privacy
+  expect: [privacy, blueezee]
 - q: "What data do you store about me?"
   expect: privacy
 - q: "What is your email address?"
@@ -134,15 +134,27 @@
 - q: "It says this backup can't be opened, the file may be damaged"
   expect: restore-backup
 
+# Real users' wording, typos and all (2026-10-10).
+- q: "my tokens are deleted automatically what to do ?"
+  expect: [tokens, delete-account]
+- q: "if i stitched images already why do We need restitch it ?"
+  expect: stitching
+- q: "kya tum bta skte ho capture kese Kiya ja skta he konse mode he"
+  expect: [capture-a-360, video-sweep, capture-settings]
+- q: "I am trying to record video for stiching in wide angle, but in my phone camera is not opening, if I move to main camara it is working. what issue can be ?"
+  expect: capture-settings
+
 # --- Questions the help pages do NOT answer: she must say "I don't know" ---
+# Answered since 2026-10-10: Android only.
 - q: "Can I use Bluez360 on an iPhone?"
-  expect: unknown
+  expect: what-is-bluez360
 - q: "What's the weather in Mumbai today?"
   expect: unknown
 - q: "Write me a poem about panoramas."
   expect: unknown
+# She can't see it, but says where to look.
 - q: "How many tokens do I have right now?"
-  expect: unknown
+  expect: [tokens, settings, blueezee]
 - q: "Which phone camera is best for 360 photos, Samsung or Pixel?"
   expect: unknown
 - q: "How do I edit the colours of my 360 after stitching?"

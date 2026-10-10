@@ -20,8 +20,8 @@ From left to right along the bottom:
 
 - **Zoom in** and **Zoom out**. Zooming out goes wider than the normal view.
 - **Turn 90°** — turns the view a quarter turn to the right.
-- **Auto-rotate** — the 360 spins slowly on its own. Tap again (**Stop rotating**) to stop. The screen stays on while it spins.
-- **Compass mode** — look around by moving your phone, as if you were standing there. Tap again to turn it off. Auto-rotate and compass mode can't run together; turning one on turns the other off.
+- **Auto-rotate** — the 360 spins slowly on its own. Tap again (**Stop rotating**) to stop. The screen stays on while it spins, so it's handy for showing a 360 to someone, or leaving it running on a display.
+- **Compass mode** — look around by moving your phone, as if you were standing there. It's the most natural way to explore a place. Tap again to turn it off. Auto-rotate and compass mode can't run together; turning one on turns the other off.
 - **Reset view** — back to the starting angle and normal zoom, and stops auto-rotate.
 
 ## If you see a message instead

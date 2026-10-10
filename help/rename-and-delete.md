@@ -20,6 +20,8 @@ Long-press any project, area or 360 card to open its menu. In Tile view you can 
 
 Choose **Delete**. A message says **Deleted** with an **UNDO** button. Tap **UNDO** within a few seconds to bring it back; after that it is gone for good.
 
+**Tip:** want to keep a copy? Back it up to your phone before you delete it.
+
 - Deleting a **project** also deletes all its areas and the 360s in them.
 - Deleting an **area** also deletes the 360s in it.
 
@@ -31,4 +33,4 @@ Choose **Delete**. A message says **Deleted** with an **UNDO** button. Tap **UND
 
 If a stitch option is greyed out, the reason is written under it.
 
-See also: [Set a project's location](project-location.md), [Share a 360 image](share-image.md), [The stitching queue](stitching-queue.md), [Raw source images](raw-images.md)
+See also: [Set a project's location](project-location.md), [Share a 360 image](share-image.md), [The stitching queue](stitching-queue.md), [Raw source images](raw-images.md), [Back up to your phone](local-backup.md)

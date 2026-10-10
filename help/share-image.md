@@ -17,6 +17,8 @@ app_version: 1.9.3
 
 Sharing an area or a project sends every finished 360° in it at once.
 
+**Share image or Local backup?** Use **Share image** to show a 360° to someone. Use **Local backup** to keep a copy you can bring back into Bluez360 later.
+
 ## What gets left out
 
 - **Locked** 360°s are not sent. You'll see a note like "Shared 3 of 5 · 2 skipped — locked". Unlock them first to include them.

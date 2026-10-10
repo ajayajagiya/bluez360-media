@@ -8,7 +8,7 @@ app_version: 1.9.3
 
 # Video sweep capture
 
-A video sweep records your 360 in a few slow turns instead of single shots. It's the default **Capture mode**. It needs a phone that records 1080p video or better.
+A video sweep records your 360 in a few slow turns instead of single shots. It's the default **Capture mode**, and the quickest way to capture: a few turns instead of 66 shots. It needs a phone that records 1080p video or better.
 
 1. Open an area and tap **Add New 360°**.
 2. Tilt the phone until the bubble sits on the line across the middle, and hold still. Recording starts; the timer at the top shows a red dot.

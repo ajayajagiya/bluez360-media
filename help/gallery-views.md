@@ -14,6 +14,8 @@ Each level has its own set of views. Tap one on the switch under the add button,
 - **Project (areas):** **Tile** and **Grid**.
 - **Area (360s):** **Reel** and **Grid**.
 
+**Which view to use?** Reel is best for browsing one project at a time with its map. Tile shows more on each card, like dates and counts. Grid fits the most on the screen, handy when you have a lot.
+
 In Tile and Grid, a pin icon shows whether a project has a location yet (filled means it has one). Project cards in Reel and Tile show the date and how many areas they hold; area cards in Tile show how many 360s.
 
 ## Search
