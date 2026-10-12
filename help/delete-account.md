@@ -3,7 +3,7 @@ id: delete-account
 title: Delete your account
 section: Account and privacy
 summary: What is deleted, and why your backups stop opening
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Delete your account
@@ -14,7 +14,7 @@ Deleting your account is permanent. It can't be undone.
 
 ## In the app
 
-1. Tap your account icon at the top of the screen, then **Account Settings**.
+1. Tap your picture at the top right to open **Account Settings**.
 2. Tap **Delete Account**.
 3. Tick **I understand this is permanent**.
 4. Tap **Delete My Account**.

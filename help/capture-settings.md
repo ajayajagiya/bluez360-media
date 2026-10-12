@@ -3,12 +3,12 @@ id: capture-settings
 title: Capture settings
 section: Capture
 summary: Capture mode, lens and shutter (auto or manual)
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Capture settings
 
-Tap your account icon (top right), then **Account Settings**. Every choice is remembered.
+Tap your picture at the top right to open **Account Settings**. Every choice is remembered.
 
 **Capture mode — Video or Photo.** **Video** (the default) records the 360 in a few continuous turns. **Photo** takes 66 single shots as you follow dots, at your camera's full resolution. If your phone can't record 1080p video, **Video** is greyed out with the reason underneath.
 

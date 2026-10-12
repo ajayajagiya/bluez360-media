@@ -3,12 +3,12 @@ id: buy-tokens
 title: Buying tokens
 section: Tokens
 summary: The packs and how payment works
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Buying tokens
 
-You can buy tokens in packs through Google Play. The packs are on the Tokens screen under **Buy tokens** (tap your account icon, then **Account Settings**, then the **Tokens** card), and on the **Unlock this 360°** screen.
+You can buy tokens in packs through Google Play. The packs are on the Tokens screen under **Buy tokens** (tap your picture at the top right, then the **Tokens** card), and on the **Unlock this 360°** screen.
 
 ## The packs
 

@@ -3,7 +3,7 @@ id: sign-in
 title: Signing in
 section: Getting started
 summary: Google sign-in, and why the app needs it
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Signing in
@@ -24,7 +24,7 @@ After that you stay signed in, even when you close the app.
 
 ## Logging out
 
-Tap your account icon at the top of the screen, tap **Logout**, then confirm with **Log out**. Your projects stay on the phone. Sign in again with the same account to see them.
+Tap your picture at the top right to open **Account Settings**, tap **Log out** under your name and email, then confirm with **Log out**. Your projects stay on the phone. Sign in again with the same account to see them.
 
 ## Switching accounts
 

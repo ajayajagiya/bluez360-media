@@ -3,7 +3,7 @@ id: tokens
 title: What tokens are
 section: Tokens
 summary: One token unlocks one 360, and what a locked preview is
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # What tokens are
@@ -26,7 +26,7 @@ A locked 360° is not sent with **Share image** until you unlock it.
 
 - Stitching a 360° again costs another token.
 - Tokens work offline too. Your balance updates when you are back online.
-- Demo 360s, and 360s you open from your phone's gallery, never need a token.
-- To see your balance, tap your account icon, then **Account Settings**. The **Tokens** card shows how many you have. Tap it to open the Tokens screen.
+- The demo 360s in **Explore**, and 360s you open from your phone's gallery, never need a token.
+- To see your balance, tap your picture at the top right to open **Account Settings**. The **Tokens** card shows how many you have. Tap it to open the Tokens screen.
 
 See also: [Earning tokens](earn-tokens.md) · [Buying tokens](buy-tokens.md) · [Invite codes](invite-codes.md)

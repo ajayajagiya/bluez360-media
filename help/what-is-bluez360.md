@@ -3,7 +3,7 @@ id: what-is-bluez360
 title: What Bluez360 does
 section: Getting started
 summary: Capture a 360 on your phone, stitch it, view and share it
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # What Bluez360 does
@@ -21,7 +21,7 @@ Your 360s are kept in **projects** (for example, a shop or a house), with **area
 
 Your photos stay on your phone. They are never uploaded to us.
 
-The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Open **Demos** from your account icon to see sample 360s.
+The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Tap **Explore** in the bar at the bottom to see sample 360s.
 
 ## Common questions
 

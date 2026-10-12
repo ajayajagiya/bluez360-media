@@ -3,7 +3,7 @@ id: contact-us
 title: Contact us
 section: Account and privacy
 summary: When Blueezee can't help
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Contact us
@@ -12,7 +12,7 @@ app_version: 1.9.3
 
 Blueezee is the help chat inside the app. She answers from these help pages.
 
-1. Tap your account icon at the top of the screen, then **Account Settings**.
+1. Tap your picture at the top right to open **Account Settings**.
 2. Tap **Help & support**.
 3. Type your question to **Blueezee**.
 

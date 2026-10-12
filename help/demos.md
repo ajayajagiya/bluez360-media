@@ -1,20 +1,21 @@
 ---
 id: demos
-title: Demo 360s
+title: Explore and the demo 360s
 section: Viewing
-summary: The sample panoramas in the app
-app_version: 1.9.3
+summary: The Explore tab, and the sample 360s in it
+app_version: 1.9.7
 ---
 
-# Demo 360s
+# Explore and the demo 360s
 
-Bluez360 comes with three sample 360s, so you can try the viewer before you capture your own.
+**Explore** is the first tab in the bar at the bottom of the screen. For now it shows the three sample 360s that come with Bluez360, so you can try the viewer before you capture your own.
 
 ## Find them
 
-1. In the Gallery, tap your account icon at the right end of the search bar.
-2. Choose **Demos**.
-3. Tap a demo to open it in the 360 viewer.
+1. Tap **Explore** in the bar at the bottom.
+2. Tap a card to open that 360 in the viewer.
+
+Each card shows the place, posted by **Bluez360**.
 
 The three demos are:
 
@@ -26,8 +27,8 @@ The three demos are:
 
 - Demos are free to view and never locked. They don't use tokens.
 - They are built into the app, so they are always there, even after a reinstall.
-- The first time you open the Demos screen, each demo may take a moment to appear. If one says it **could not be opened**, tap **Try again**.
+- The first time you open Explore, each demo may take a moment to appear. If one says it **could not be opened**, tap **Try again**.
 
-At the bottom, under **Find us**, are links to Bluez360's **Website**, Google **Business** page, Google **Maps**, **Instagram** and **YouTube**.
+The **Find us** links (Website, Business, Maps, Instagram, YouTube) are now at the bottom of **Account Settings**.
 
 See also: [The 360 viewer](viewer.md), [Capture a 360](capture-a-360.md)

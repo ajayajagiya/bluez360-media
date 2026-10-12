@@ -3,12 +3,12 @@ id: earn-tokens
 title: Earning tokens
 section: Tokens
 summary: Watching ads and inviting friends
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Earning tokens
 
-You can get tokens for free in two ways. Open the Tokens screen (tap your account icon, then **Account Settings**, then the **Tokens** card) and look under **Earn free**.
+You can get tokens for free in two ways. Open the Tokens screen (tap your picture at the top right, then the **Tokens** card) and look under **Earn free**.
 
 ## Watch an ad
 

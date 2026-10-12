@@ -73,6 +73,14 @@
   expect: demos
 - q: "Do the demos cost tokens?"
   expect: demos
+- q: "What are the three tabs at the bottom?"
+  expect: home-tabs
+- q: "Where is the stitching queue?"
+  expect: [stitching-queue, home-tabs]
+- q: "What is the Explore tab?"
+  expect: [demos, home-tabs]
+- q: "Where did Logout go?"
+  expect: [sign-in, settings]
 - q: "How do I take a 360 photo by following the dots?"
   expect: capture-a-360
 - q: "How many shots does photo mode take?"

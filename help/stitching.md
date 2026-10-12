@@ -3,7 +3,7 @@ id: stitching
 title: Stitching on your phone
 section: Stitching
 summary: What stitching is, and "Capture only" vs "On phone"
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # Stitching on your phone
@@ -13,7 +13,7 @@ Stitching joins the shots from a capture into one 360° image. Bluez360 does it 
 Choose how it works in **Account Settings › Stitching**:
 
 - **On phone** (the default) — your phone stitches the 360. After a Photo capture it goes straight into the stitching queue. After a video sweep you pick **Stitch Now** or **Queue it, stitch later**.
-- **Capture only** — your shots are saved but not stitched. The 360's card shows a few of its shots with **Ready to stitch**, and the **Stitching Queue** menu item is hidden.
+- **Capture only** — your shots are saved but not stitched. The 360's card shows a few of its shots with **Ready to stitch**, and nothing is added to the **Queue**.
 
 To stitch a saved capture later, switch to **On phone**, long-press the 360 and tap **Add to stitching queue**.
 

@@ -3,7 +3,7 @@ id: blueezee
 title: Blueezee
 section: Account and privacy
 summary: Who Blueezee is, what she can and can't help with, and how your chat is kept
-app_version: 1.9.4
+app_version: 1.9.7
 ---
 
 # Blueezee
@@ -12,7 +12,7 @@ Blueezee is Bluez360's help assistant, your 360° guide. Her name comes from **B
 
 ## Open Blueezee
 
-1. Tap your account icon at the top of the screen, then **Account Settings**.
+1. Tap your picture at the top right to open **Account Settings**.
 2. Tap **Help & support**.
 3. Type your question, or tap one of the suggested questions.
 

@@ -3,12 +3,12 @@ id: stitching-queue
 title: The stitching queue
 section: Stitching
 summary: Waiting, in progress, done and failed, and what to do about a failure
-app_version: 1.9.3
+app_version: 1.9.7
 ---
 
 # The stitching queue
 
-Tap your account icon (top right), then **Stitching Queue**. You can also tap **View** after a capture. It only appears when stitching is set to **On phone**.
+Tap **Queue** in the bar at the bottom of the screen. Tapping **View** after a capture, **View queue**, **Stitch Now**, or a stitching notification takes you there too. The Queue tab is always there, even with stitching set to **Capture only**.
 
 There are two tabs, **Active** and **Completed**; tap or swipe between them. One 360 stitches at a time, because stitching needs a lot of the phone's memory.
 

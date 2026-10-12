@@ -12,7 +12,8 @@ Help & support), or email **bluez360.studio@gmail.com**.
 - `what-is-bluez360` · **What Bluez360 does** — capture a 360 on your phone, stitch it, view and share it
 - `sign-in` · **Signing in** — Google sign-in, and why the app needs it
 - `permissions` · **Permissions the app asks for** — camera, location, notifications, and what happens if you say no
-- `first-run` · **The first-run guide** — the short walk-through on your first visit, and the How to use tips
+- `home-tabs` · **Explore, Gallery and Queue** — the three tabs in the bar at the bottom, and your picture at the top right
+- `first-run` · **The first-run guide** — the short walk-through on your first visit
 
 ## Projects and areas
 
@@ -40,7 +41,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 
 - `viewer` · **The 360 viewer** — look around, zoom, turn 90°, auto-rotate, compass mode, reset
 - `open-from-gallery` · **Open a 360 from your phone's gallery** — viewing 360s from other apps in Bluez360
-- `demos` · **Demo 360s** — the sample panoramas in the app
+- `demos` · **Explore and the demo 360s** — the Explore tab, and the sample 360s in it
 
 ## Tokens
 
