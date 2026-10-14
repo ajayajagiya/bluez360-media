@@ -3,7 +3,7 @@ id: stitching
 title: Stitching on your phone
 section: Stitching
 summary: What stitching is, and "Capture only" vs "On phone"
-app_version: 1.9.7
+app_version: 1.9.9
 ---
 
 # Stitching on your phone
@@ -27,6 +27,6 @@ If **On phone** is greyed out, this phone can't stitch 360s itself.
 
 Why stitch again? Every app update can bring stitching fixes and improvements. Stitching an older 360 again runs the newer stitching on its original shots, so it can come out better than before.
 
-To stitch a finished 360 again, long-press it and tap **Stitch again**. It needs the 360's original shots still on the phone, and it costs another token.
+To stitch a finished 360 again, long-press it and tap **Stitch again**. It needs the 360's original shots, or its sweep recording, still on the phone, and it costs another token. If you deleted them in **View raw data**, Stitch again is greyed out and says why.
 
 See also: [The stitching queue](stitching-queue.md), [HD or 4K](stitch-quality.md), [What tokens are](tokens.md)
