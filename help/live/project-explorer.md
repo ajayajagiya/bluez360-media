@@ -3,7 +3,7 @@ id: project-explorer
 title: The Project explorer
 section: Projects and areas
 summary: The ☰ menu for jumping between projects and areas, and the Home button
-app_version: 1.9.3
+app_version: 2.8.0
 ---
 
 # The Project explorer
@@ -16,11 +16,13 @@ It's handiest when you have many projects and want to hop between areas quickly.
 
 On the Gallery, a project or an area, tap the menu button (☰) at the left end of the search bar.
 
+To close it, tap outside it, swipe it to the left, or press Back.
+
 ## Use it
 
 1. Every project is listed. Tap a project's row to show its areas; tap it again to hide them. Only one project opens at a time.
 2. Tap an area to go straight into it. The number beside each area is how many 360s it holds.
-3. To open the project itself, tap the eye button on the right of its row.
+3. To open the project itself, tap the eye button on the right of its row. The Tour Builder button beside it opens the project in [Tour Builder](tour-builder.md).
 
 The panel opens on the project you are in (or were in last) and marks the area you were in last. 360s are not listed here, only projects and areas.
 

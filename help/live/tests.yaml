@@ -142,6 +142,56 @@
 - q: "It says this backup can't be opened, the file may be damaged"
   expect: restore-backup
 
+# Tour Builder (app 2.8.0).
+- q: "How do I make a virtual tour?"
+  expect: tour-builder
+- q: "Can I upload my 360 straight to Google Street View from the app?"
+  expect: [tour-publish, tour-builder]
+- q: "How do I link the kitchen to the hall?"
+  expect: tour-builder
+- q: "How do I add a second floor to my tour?"
+  expect: tour-builder
+- q: "My 360 faces the wrong way on the map, how do I fix it?"
+  expect: tour-builder
+- q: "How do I blur a face?"
+  expect: tour-blur
+- q: "Does Detect find number plates?"
+  expect: tour-blur
+- q: "Will blurring change my original 360?"
+  expect: tour-blur
+- q: "Can I walk through the tour before I publish it?"
+  expect: tour-preview
+- q: "How many tokens does publishing a tour cost?"
+  expect: [tour-publish, tokens]
+- q: "Google rejected my 360, what now?"
+  expect: tour-publish
+- q: "How do I take a 360 off Google Maps?"
+  expect: tour-publish
+- q: "Can I bring my old Google Maps 360s into a project?"
+  expect: tour-import
+- q: "Does a backup keep my tour?"
+  expect: [local-backup, restore-backup]
+- q: "What happens to my Google Maps photos if I delete my account?"
+  expect: delete-account
+- q: "Will people see my name if I publish to Google Maps?"
+  expect: [privacy, tour-publish]
+
+# Explore (app 2.8.0).
+- q: "How do I get my 360 into Explore?"
+  expect: [demos, tour-publish]
+- q: "I published my 360 but it's not in Explore, why?"
+  expect: [demos, tour-publish]
+- q: "Explore says Could not check for new 360s"
+  expect: demos
+- q: "What does the Google Maps pin on a card do?"
+  expect: demos
+- q: "Can I stop my 360s showing in Explore?"
+  expect: [demos, privacy, tour-publish]
+- q: "Can I walk to the next 360 in the Explore viewer?"
+  expect: viewer
+- q: "It says this 360 is not on Google Maps any more"
+  expect: viewer
+
 # Real users' wording, typos and all (2026-10-10).
 - q: "my tokens are deleted automatically what to do ?"
   expect: [tokens, delete-account]
@@ -163,13 +213,14 @@
 # She can't see it, but says where to look.
 - q: "How many tokens do I have right now?"
   expect: [tokens, settings, blueezee]
+# Either: she won't compare brands, but may say any phone's camera is enough.
 - q: "Which phone camera is best for 360 photos, Samsung or Pixel?"
-  expect: unknown
+  expect: [unknown, what-is-bluez360]
 - q: "How do I edit the colours of my 360 after stitching?"
   expect: unknown
-- q: "Can I upload my 360 straight to Google Street View from the app?"
-  expect: unknown
 - q: "Who is the CEO of Bluez360?"
+  expect: unknown
+- q: "Can I publish my tour to Apple Maps?"
   expect: unknown
 
 # --- Attempts to make her ignore her rules ---------------------------------

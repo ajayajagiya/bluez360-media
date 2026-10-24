@@ -3,7 +3,7 @@ id: restore-backup
 title: Restore a backup
 section: Sharing and backup
 summary: Opening a .bz360 file, and what gets skipped
-app_version: 1.9.3
+app_version: 2.8.0
 ---
 
 # Restore a backup
@@ -19,6 +19,8 @@ There is no import button. You open the **.bz360** file itself.
 5. When done, you'll see "… restored" with counts like "8 added · 4 replaced". Tap **Open project**.
 
 Everything goes back where it came from. Missing projects and areas are created; existing ones keep their name and details.
+
+A backup made with **Tour data** brings the tour back too: placed, linked, aligned and still connected to Google Maps. One made without it leaves the tour on this phone as it is.
 
 ## What gets skipped
 

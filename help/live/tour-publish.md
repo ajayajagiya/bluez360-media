@@ -1,0 +1,54 @@
+---
+id: tour-publish
+title: Publish to Google Maps
+section: Tour Builder
+summary: Review & publish, what it costs, and the Google Maps status screen
+app_version: 2.8.0
+---
+
+# Publish to Google Maps
+
+Your tour goes on Google Maps under your own Google account, the one you're signed in to Bluez360 with. Anyone on Google Maps can then see it.
+
+## Review & publish
+
+Open **Review & publish** from the menu. It shows the whole tour on a map, with a row for each 360°:
+
+- **Will be published:** every placed, unlocked 360°. Anything not done yet is amber, with a shortcut back to it, like **Align ›**.
+- **Won't be published:** unplaced and locked 360°s.
+
+A direction you haven't confirmed doesn't stop you. It goes as it is.
+
+Tap **Publish N to Google Maps**. The first time, Google asks you to let Bluez360 publish for your account. **Disconnect** takes that back.
+
+## What it costs
+
+- **1 token for each 360°** the first time it goes on Google Maps.
+- A project's first publish costs **at least 5 tokens**, so you need 5 to start. After that, each new 360° is 1 token.
+- That's why Tour Builder counts in tours: **1 tour = 5 tokens**.
+- Updating 360°s already on Google Maps (moved, turned or relinked) is free, and so is adding 360°s from Google Maps.
+
+If you don't have enough tokens, you can publish the first ones your tokens cover now. The rest wait on the status screen, each showing **Needs 1 token**, and go with your next publish.
+
+## Google Maps status
+
+The status screen opens after you publish, and from the menu. The upload carries on in the background, with a notification. **Cancel upload** stops what hasn't gone yet. The ones already sent stay on Google Maps.
+
+Each 360° shows where it is:
+
+- **In review:** Google is checking it. This can take a while.
+- **Live:** it's on Google Maps.
+- **Rejected:** tap the row for Google's reason, then **Fix in Tour Builder**.
+- **Changed:** edited since it was published. It's updated the next time you publish.
+
+The screen checks with Google each time you open it. Pull down to check again — Google is asked at most once every 5 minutes. Tap a row for more: its views, **Open in Google Maps**, **Share link** and **Remove from Google Maps**.
+
+Every 360° you publish from the app also goes into Bluez360's **Explore**, where people using Bluez360 see it once it's Live, with its place, your Google name and your Google picture. There's no switch to turn this off. See [Explore and the demo 360s](demos.md).
+
+## Change a published tour
+
+Tap **Edit tour**, make your changes, then **Republish**. It always goes through Review & publish first. Changes go to the same 360°s on Google Maps; the pictures aren't uploaded again.
+
+**Remove from Google Maps** is only in a 360°'s row on the status screen, with **Undo** for 5 seconds. Taking a dot off the map, or deleting a 360° from the project, never removes it from Google Maps. A deleted one gets its own row on the status screen, with **Remove**.
+
+See also: [Tour Builder](tour-builder.md) · [Blur faces and number plates](tour-blur.md) · [What tokens are](tokens.md) · [Your privacy](privacy.md)

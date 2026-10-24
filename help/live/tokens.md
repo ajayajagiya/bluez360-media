@@ -3,14 +3,14 @@ id: tokens
 title: What tokens are
 section: Tokens
 summary: One token unlocks one 360, and what a locked preview is
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # What tokens are
 
-Tokens pay for stitching. **1 token = 1 stitch**: each time your phone finishes stitching a 360°, one token is used and the 360° is yours to view until you stitch it again.
+Tokens pay for stitching, and for publishing tours to Google Maps. **1 token = 1 stitch**: each time your phone finishes stitching a 360°, one token is used and the 360° is yours to view until you stitch it again.
 
-You only pay for what you stitch. Capturing, viewing, sharing and backing up never use tokens.
+You only pay for what you stitch and publish. Capturing, viewing, sharing and backing up never use tokens.
 
 New accounts get 10 free tokens the first time they sign in. This welcome gift is given once per Google account.
 
@@ -22,11 +22,15 @@ To open it, tap **Unlock**. If you have a token, it is used straight away and th
 
 A locked 360° is not sent with **Share image** until you unlock it.
 
+## Tours on Google Maps
+
+Publishing a 360° to Google Maps with Tour Builder costs 1 token, and a project's first publish costs at least 5. So the Tokens screen shows **1 tour = 5 tokens**, and how many tours your tokens make. See [Publish to Google Maps](tour-publish.md).
+
 ## Good to know
 
 - Stitching a 360° again costs another token.
 - Tokens work offline too. Your balance updates when you are back online.
-- The demo 360s in **Explore**, and 360s you open from your phone's gallery, never need a token.
+- 360s in **Explore**, demos included, and 360s you open from your phone's gallery, never need a token.
 - To see your balance, tap your picture at the top right to open **Account Settings**. The **Tokens** card shows how many you have. Tap it to open the Tokens screen.
 
 See also: [Earning tokens](earn-tokens.md) · [Buying tokens](buy-tokens.md) · [Invite codes](invite-codes.md)

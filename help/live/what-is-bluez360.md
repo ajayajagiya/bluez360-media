@@ -3,7 +3,7 @@ id: what-is-bluez360
 title: What Bluez360 does
 section: Getting started
 summary: Capture a 360 on your phone, stitch it, view and share it
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # What Bluez360 does
@@ -16,16 +16,17 @@ What you can do:
 2. **Stitch** it on your phone. Stitching joins your shots into one 360°. Each stitch uses one token.
 3. **View** it. Look around, zoom in, or let it turn by itself.
 4. **Share** the image with other apps, or **back up** a 360°, an area or a whole project to a file on your phone.
+5. **Publish** a project as a virtual tour on Google Maps with **Tour Builder**, so people can walk through it room by room.
 
 Your 360s are kept in **projects** (for example, a shop or a house), with **areas** inside them (like Kitchen or Entrance).
 
-Your photos stay on your phone. They are never uploaded to us.
+Your photos stay on your phone. They are never uploaded to us. Only the 360°s you publish to Google Maps leave it, and they go to your own Google account.
 
-The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Tap **Explore** in the bar at the bottom to see sample 360s.
+The app needs Android 12 or newer, and a Google account to sign in. Want a look first? Tap **Explore** in the bar at the bottom to see 360s other people have made, and sample 360s.
 
 ## Common questions
 
-- **Is it free?** New accounts start with 10 free tokens. Each stitch uses one token, and you can earn more for free or buy them. Viewing, sharing, backing up and the demos never use tokens.
+- **Is it free?** New accounts start with 10 free tokens. Each stitch uses one token, and so does each 360° you publish to Google Maps. You can earn more for free or buy them. Viewing, sharing, backing up and the demos never use tokens.
 - **Does it work on iPhone?** No. Bluez360 is for Android phones with Android 12 or newer.
 - **Do I need a special camera?** No. Your phone's own camera is enough.
 

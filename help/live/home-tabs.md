@@ -3,14 +3,14 @@ id: home-tabs
 title: Explore, Gallery and Queue
 section: Getting started
 summary: The three tabs in the bar at the bottom, and your picture at the top right
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # Explore, Gallery and Queue
 
 The bar at the bottom of the screen has three tabs:
 
-- **Explore** — 360s to look at. For now, the three demo 360s that come with the app.
+- **Explore** — 360s people publish to Google Maps with Bluez360, and the three demo 360s that come with the app.
 - **Gallery** — your own projects, areas and 360s. The app opens here.
 - **Queue** — the stitching queue: what's stitching, waiting, finished or failed.
 

@@ -1,10 +1,11 @@
 # Bluez360 help
 
-How to capture, stitch, view, share and back up your 360s with the Bluez360
-Android app. Can't find it here? Ask **Blueezee** in the app (Settings ›
+How to capture, stitch, view, share and back up your 360s, and publish them as
+tours on Google Maps, with the Bluez360 Android app. Can't find it here? Ask **Blueezee** in the app (Settings ›
 Help & support), or email **bluez360.studio@gmail.com**.
 
-<!-- Topic list approved by the owner 2026-10-09 (spec 15, B1).
+<!-- Topic list approved by the owner 2026-10-09 (spec 15, B1); the Tour
+     Builder pages on 2026-10-21, for app 2.8.0.
      Each line: page id · title — what it covers. -->
 
 ## Getting started
@@ -39,9 +40,9 @@ Help & support), or email **bluez360.studio@gmail.com**.
 
 ## Viewing
 
-- `viewer` · **The 360 viewer** — look around, zoom, turn 90°, auto-rotate, compass mode, reset
+- `viewer` · **The 360 viewer** — look around, zoom, turn 90°, auto-rotate, compass mode, reset — and 360s from Explore
 - `open-from-gallery` · **Open a 360 from your phone's gallery** — viewing 360s from other apps in Bluez360
-- `demos` · **Explore and the demo 360s** — the Explore tab, and the sample 360s in it
+- `demos` · **Explore and the demo 360s** — the Explore tab: 360s people publish to Google Maps with Bluez360, and the sample 360s
 
 ## Tokens
 
@@ -55,6 +56,14 @@ Help & support), or email **bluez360.studio@gmail.com**.
 - `share-image` · **Share a 360 image** — sending a 360 to other apps
 - `local-backup` · **Back up to your phone** — saving a 360, area or project as a `.bz360` file in Download/Bluez360
 - `restore-backup` · **Restore a backup** — opening a `.bz360` file, and what gets skipped
+
+## Tour Builder
+
+- `tour-builder` · **Tour Builder** — making a project into a tour for Google Maps: the menu, and placing, linking and aligning your 360s
+- `tour-blur` · **Blur faces and number plates** — what Google turns down, and how to blur it
+- `tour-preview` · **Preview your tour** — walking through it in the app first
+- `tour-publish` · **Publish to Google Maps** — review, what it costs, and the status screen
+- `tour-import` · **Add 360s from Google Maps** — building a tour from 360s you've already published
 
 ## Account and privacy
 

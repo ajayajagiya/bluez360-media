@@ -3,14 +3,14 @@ id: settings
 title: Settings
 section: Account and privacy
 summary: Theme and the other options in one place
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # Settings
 
 To open Settings, tap your picture at the top right of the screen. It opens **Account Settings** straight away.
 
-At the top you'll see your Google name, email and picture, with a small **Log out** button under them, and three counts: **Projects**, **360s stitched** and **Tokens**. Tap **Tokens** to open the Tokens screen.
+At the top you'll see your Google name, email and picture, with small **Log out** and **Update** buttons under them (**Update** opens Bluez360 in the Play Store), and three counts: **Projects**, **360s stitched** and **Tokens**. Tap **Tokens** to open the Tokens screen.
 
 ## Options
 

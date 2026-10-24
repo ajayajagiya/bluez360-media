@@ -3,7 +3,7 @@ id: permissions
 title: Permissions the app asks for
 section: Getting started
 summary: Camera, location, notifications, and what happens if you say no
-app_version: 1.9.3
+app_version: 2.8.0
 ---
 
 # Permissions the app asks for
@@ -13,6 +13,8 @@ After you first sign in, a **Before you start** screen explains three permission
 - **Camera** – to capture your 360°s. Without it you can't capture, but you can still view, share and back up.
 - **Location** – to pin each 360° on the map. It's only used while you're using the app, never in the background. It's optional: you can capture without it.
 - **Notifications** – to tell you when a stitch is done.
+
+**Google Maps** is asked separately, by Google, not Android: the first time you publish a tour or add 360°s from Google Maps in Tour Builder. **Disconnect**, on Review & publish, takes it back. See [Publish to Google Maps](tour-publish.md).
 
 ## If you said no
 

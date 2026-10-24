@@ -3,7 +3,7 @@ id: delete-account
 title: Delete your account
 section: Account and privacy
 summary: What is deleted, and why your backups stop opening
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # Delete your account
@@ -30,11 +30,13 @@ Tap **Or request deletion on our web page**, or visit bluez360.web.app/delete-ac
 - Your sign-in.
 - Your token balance. Unused tokens are lost.
 - Your invite code, and the record of ads you watched for tokens.
+- Your 360°s in Bluez360's Explore.
 
 ## What happens to your things
 
 - **Your projects, areas and photos stay on this phone.** They were never uploaded, so they aren't deleted. Sign in again with the same Google account to see them.
 - **Your .bz360 backups stop opening**, for good – even if you sign up again with the same email.
 - Signing up again with the same email doesn't give you the welcome tokens a second time.
+- **360°s you published to Google Maps stay there.** They're in your Google account, not ours. To take them down, use **Remove from Google Maps** in Tour Builder before you delete your account.
 
 See also: [Your privacy](privacy.md), [Back up to your phone](local-backup.md), [Share a 360 image](share-image.md), [Signing in](sign-in.md), [Contact us](contact-us.md)
