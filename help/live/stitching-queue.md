@@ -14,7 +14,7 @@ There are three tabs, **Active**, **Completed** and **History**; tap or swipe be
 
 Cards in **Active** show:
 
-- **Stitching** — the picture sharpens with a percentage and the current step, like "3/10 · Finding where the photos overlap". **Choosing where to join the photos** is the slowest step and can sit still for minutes.
+- **Stitching** — the picture shows each step of the stitch as it happens, with the percentage in its corner and the current step under it, like "3/10 · Finding where the photos overlap". **Choosing where to join the photos** is the slowest step; the percentage can sit still for minutes. When it's done, the card moves to **Completed**.
 - **Waiting its turn** — queued behind another stitch.
 - **Paused — waiting for you** — the queue is paused.
 - **Failed** — the reason in red, with **Retry** and **Remove**.
