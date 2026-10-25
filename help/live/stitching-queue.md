@@ -3,14 +3,14 @@ id: stitching-queue
 title: The stitching queue
 section: Stitching
 summary: Waiting, in progress, done and failed, and what to do about a failure
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # The stitching queue
 
 Tap **Queue** in the bar at the bottom of the screen. Tapping **View** after a capture, **View queue**, **Stitch Now**, or a stitching notification takes you there too. The Queue tab is always there, even with stitching set to **Capture only**.
 
-There are two tabs, **Active** and **Completed**; tap or swipe between them. One 360 stitches at a time, because stitching needs a lot of the phone's memory.
+There are three tabs, **Active**, **Completed** and **History**; tap or swipe between them. One 360 stitches at a time, because stitching needs a lot of the phone's memory.
 
 Cards in **Active** show:
 
@@ -22,6 +22,8 @@ Cards in **Active** show:
 **Cancel** stops a stitch or takes it out of the queue. **Pause the queue** lets the running stitch finish, then starts nothing new until you tap **Start stitching**.
 
 In **Completed**, tap **Preview**, **Restitch** (costs 1 token) or **Remove**. Restitching is worth it after an app update, which can bring stitching fixes and improvements.
+
+**History** lists every stitch you started and how it ended. It's kept on this phone only; **Clear all** empties it.
 
 **If a stitch fails:**
 

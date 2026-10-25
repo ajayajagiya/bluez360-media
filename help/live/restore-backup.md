@@ -25,7 +25,7 @@ A backup made with **Tour data** brings the tour back too: placed, linked, align
 ## What gets skipped
 
 - With **Skip all**, 360°s already on the phone.
-- A 360° being stitched right now.
+- A 360° waiting in the stitching queue or being stitched right now.
 - A locked copy never replaces a 360° you already unlocked.
 - A damaged 360° shows as "couldn't be read". The rest still restore.
 

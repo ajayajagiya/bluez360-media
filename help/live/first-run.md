@@ -3,7 +3,7 @@ id: first-run
 title: The first-run guide
 section: Getting started
 summary: The short walk-through on your first visit
-app_version: 1.9.7
+app_version: 2.8.0
 ---
 
 # The first-run guide
@@ -21,7 +21,7 @@ A highlighted button and a hand show you what to tap next:
 
 1. **Add a project**, and pick its location on the map (you can skip this part).
 2. **Open the project**, then **Add an area** and **Open the area**.
-3. **Shoot a 360** and take your first shot.
+3. **Shoot a 360** and start your capture: in Video mode, line up the bubble; in Photo mode, take one shot.
 4. **Open the project explorer**, then **Open your account** (your picture at the top right), which opens **Account Settings**.
 5. **Pick a theme to finish**.
 

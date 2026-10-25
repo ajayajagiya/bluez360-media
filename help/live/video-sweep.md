@@ -2,8 +2,8 @@
 id: video-sweep
 title: Video sweep capture
 section: Capture
-summary: Recording a 360 in one continuous sweep instead of single shots
-app_version: 1.9.3
+summary: Recording a 360 in a few slow turns instead of single shots
+app_version: 2.8.0
 ---
 
 # Video sweep capture
@@ -15,7 +15,7 @@ A video sweep records your 360 in a few slow turns instead of single shots. It's
 3. Turn right (clockwise), slowly, on the spot. The ring below fills as you go. At **Keep going — back to where you started**, finish the circle. A tick shows and the next sweep starts by itself.
 4. The top shows your sweep, like "Horizon · 1 of 5". For **Zenith** and **Nadir**, point straight up or down and turn a small circle.
 
-Red messages mean fix something, like **Wrong way — turn right**, **Turn more slowly** or **Turn on the spot, don't step**. If it goes too far, only that sweep restarts.
+Red messages mean fix something, like **Wrong way — turn right** or **Turn more slowly**. If it goes too far, only that sweep restarts.
 
 At the end, pick **Stitch Now**, **Queue it, stitch later** (holds the whole queue until you start it), or **Save it** in Capture only mode. If a sweep came out short, **Shoot Horizon again** (or similar) redoes just that one.
 

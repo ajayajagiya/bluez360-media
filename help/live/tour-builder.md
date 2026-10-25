@@ -53,10 +53,11 @@ The strip under the map holds your 360°s, and placed ones have a tick. Each dot
 
 ## Link
 
-Tap a dot, tap **Link**, then tap another dot. A link works both ways. **Auto-link nearest** links each dot to its closest neighbours.
+Tap a dot, tap **Link**, then tap another dot. A link works both ways. **Auto-link nearest**, under the map, links each dot on the floor you're looking at to its closest neighbours.
 
 - To link two floors, tap **Link to another floor**, then the dot on the other floor. Both dots get a floor badge.
-- To remove one link, tap its line, then the red **✕** in its middle. **Remove all links** removes every link of that dot.
+- To remove one link, tap its line, then the red **✕** in its middle. **Remove all links** in a dot's menu removes that dot's links.
+- **Remove all links** under the map removes every link in the tour, on every floor. **Undo** brings them back for a few seconds.
 
 ## Align
 

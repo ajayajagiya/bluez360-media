@@ -28,7 +28,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 
 - `capture-a-360` · **Capture a 360** — following the dots, step by step
 - `capture-tips` · **Tips for a clean capture** — holding the phone, light, and staying in one spot
-- `video-sweep` · **Video sweep capture** — recording a 360 in one continuous sweep instead of single shots
+- `video-sweep` · **Video sweep capture** — recording a 360 in a few slow turns instead of single shots
 - `capture-settings` · **Capture settings** — capture mode, lens and shutter (auto or manual)
 
 ## Stitching

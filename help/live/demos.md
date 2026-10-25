@@ -41,6 +41,7 @@ Publish them to Google Maps with **Tour Builder** (see [Publish to Google Maps](
 
 - Explore is free. Opening a 360 here never uses tokens.
 - Published 360s come from Google, so they need a connection. The demos are built into the app, so they are always there, even after a reinstall.
+- **You're offline** under the title means the phone has no internet. The list and the demos still show, but the pictures don't load. When the internet is back, the bar goes away and the pictures load.
 - A card with a grey 360 sign instead of a picture: Google hasn't made a picture for it yet. It still opens.
 - If someone's picture doesn't load, the first letter of their name shows instead.
 - The first time you open Explore, each demo may take a moment to appear. If one says it **could not be opened**, tap **Try again**.

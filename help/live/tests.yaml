@@ -105,6 +105,8 @@
   expect: stitching-queue
 - q: "My stitch has been stuck on Choosing where to join the photos for ages, is it frozen?"
   expect: stitching-queue
+- q: "What is the History tab in the stitching queue?"
+  expect: stitching-queue
 - q: "Why can't I select 4K?"
   expect: stitch-quality
 - q: "What resolution is an HD 360?"
@@ -149,6 +151,8 @@
   expect: [tour-publish, tour-builder]
 - q: "How do I link the kitchen to the hall?"
   expect: tour-builder
+- q: "How do I remove every link in my tour at once?"
+  expect: tour-builder
 - q: "How do I add a second floor to my tour?"
   expect: tour-builder
 - q: "My 360 faces the wrong way on the map, how do I fix it?"
@@ -182,6 +186,8 @@
 - q: "I published my 360 but it's not in Explore, why?"
   expect: [demos, tour-publish]
 - q: "Explore says Could not check for new 360s"
+  expect: demos
+- q: "Explore says You're offline and the pictures are blank"
   expect: demos
 - q: "What does the Google Maps pin on a card do?"
   expect: demos
