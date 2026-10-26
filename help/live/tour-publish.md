@@ -12,12 +12,14 @@ Your tour goes on Google Maps under your own Google account, the one you're sign
 
 ## Review & publish
 
-Open **Review & publish** from the menu. It shows the whole tour on a map, with a row for each 360°:
+Open **Review & publish** from the menu. Above the map, as in the tabs: how many will be published, the links, how many are aligned, then **▶ Preview tour**, the map button and the floor button. Touch and hold a number to see what it counts. Below the map, a row for each 360°:
 
 - **Will be published:** every placed, unlocked 360°. Anything not done yet is amber, with a shortcut back to it, like **Align ›**.
 - **Won't be published:** unplaced and locked 360°s.
 
 A direction you haven't confirmed doesn't stop you. It goes as it is.
+
+**The place** comes first in the list. **On Google Maps at** names the place your 360°s will show at: your project's location, picked from the search. **No place · Google Maps will say Unknown place** means the location was a dropped pin, or was picked in an older version of the app. Tap **Pick place** and choose it from the search, then publish: the 360°s already on Google Maps get the place too.
 
 Tap **Publish N to Google Maps**. The first time, Google asks you to let Bluez360 publish for your account. **Disconnect** takes that back.
 
@@ -32,7 +34,7 @@ If you don't have enough tokens, you can publish the first ones your tokens cove
 
 ## Google Maps status
 
-The status screen opens after you publish, and from the menu. The upload carries on in the background, with a notification. **Cancel upload** stops what hasn't gone yet. The ones already sent stay on Google Maps.
+The status screen opens after you publish, and from the menu. The upload carries on in the background, with a notification; tap it to come back to this screen. When it ends, the notification says **Publishing finished** or **Publishing stopped**, with what happened. **Cancel upload** stops what hasn't gone yet. The ones already sent stay on Google Maps.
 
 Each 360° shows where it is:
 

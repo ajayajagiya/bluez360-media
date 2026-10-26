@@ -10,8 +10,8 @@ app_version: 2.8.0
 
 Open an area and tap a 360 to view it. A percentage shows while it loads.
 
-- **Look around:** drag anywhere on the photo.
-- **Zoom:** pinch, or use the buttons below.
+- **Look around:** drag anywhere on the photo. What you touch stays under your finger, however far you've zoomed. Flick to let it glide on.
+- **Zoom:** pinch, or use the buttons below. A pinch zooms in on the spot between your fingers.
 - **Hide the controls:** tap the photo once. Tap again to bring them back.
 
 ## The buttons

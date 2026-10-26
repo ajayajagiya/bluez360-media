@@ -29,7 +29,7 @@ We sell nothing, build no profile of you, and don't track you across other apps.
 
 ## Google Maps
 
-Nothing goes to Google Maps until you tap **Publish** in **Tour Builder**. Then your 360s, with your blurs, positions, directions, floors and links, go from your phone straight to Google, under your own Google account. We never get a copy. Once Google puts one Live, anyone on Google Maps can see it, with your Google name.
+Nothing goes to Google Maps until you tap **Publish** in **Tour Builder**. Then your 360s, with your blurs, positions, directions, floors and links, and your project's place when you picked it from the search, go from your phone straight to Google, under your own Google account. We never get a copy. Once Google puts one Live, anyone on Google Maps can see it, with your Google name.
 
 For each 360 you publish, we keep a short entry for Bluez360's **Explore**: its place and position, the dates it was taken and published, your Google name, a link to your Google picture, and a link to Google's small picture of the 360. Once Google puts it Live, everyone using Bluez360 can see it in Explore. The place is your project's place, or the project's name if that place is a pin with no name. There's no switch to turn this off. To have one taken out, email us. **Remove from Google Maps** removes its entry too, and one Google turns down is taken out the next time the app checks with Google.
 

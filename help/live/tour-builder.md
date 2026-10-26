@@ -38,6 +38,8 @@ Dots are 360°s, and lines are links. **Place**, **Link** and **Align** are thre
 - The **map** button: Roadmap, Satellite, Hybrid or Terrain. Your choice is kept.
 - The **floor** button shows one floor at a time. 0 is the ground floor, 1 and up are above it, and −1 to −3 are below. Use **Add floor above** or **Add floor below**. A one-storey place never needs it.
 
+Lost your tour after zooming or scrolling? The round button at the bottom right of the map, **Back to your tour**, brings every dot on this floor back into view.
+
 Tap a dot to see what you can do with it. Messages show in one line at the bottom. After you remove something, it offers **Undo** for 5 seconds.
 
 ## Place

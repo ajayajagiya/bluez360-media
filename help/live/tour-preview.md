@@ -10,7 +10,7 @@ app_version: 2.8.0
 
 **Preview tour** lets you walk through your tour in the app, the way it will feel on Google Maps.
 
-Tap **▶** after the **Align** tab, or **Preview tour** on the Review & publish screen. It starts at the dot you picked, or at 360° number 1.
+Tap **▶** after the **Align** tab, or **▶ Preview tour** at the top of the Review & publish screen. It starts at the dot you picked, or at 360° number 1.
 
 - It opens in the usual 360° viewer, with your blurs.
 - White arrows lie on the floor, pointing to each linked 360°, as in Street View. Tap one to walk there. The arrows have no names on them; the strip below shows which 360° you're in.

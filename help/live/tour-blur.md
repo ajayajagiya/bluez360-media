@@ -21,7 +21,7 @@ Each 360° in the tour shows its state: **Not checked**, **N blurred** or **Noth
 The whole 360° is at the top. Below it is a close-up of the spot you pick.
 
 1. Tap **Detect** to find the faces. Each one shows as a numbered dot.
-2. Tap a dot to see it close up. Drag the shape to move it, drag a corner to resize it, or drag the round handle under it to turn it.
+2. Tap a dot to see it close up. Drag the shape to move it, drag a corner to resize it, or drag the round handle under it to turn it. Pinch the close-up to zoom in, up to 3 times, to put a blur exactly where you want it. The **✕** closes the close-up and sets the zoom back.
 3. Tap **Apply** to blur it, or **Apply all** at the top right to blur every face found.
 
 Detect finds faces only. For a number plate, or anything Detect missed, tap that spot in the 360° at the top, then **Oval** or **Box**. Fit the shape and tap **Apply**.
