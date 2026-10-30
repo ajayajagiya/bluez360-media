@@ -12,7 +12,7 @@ Your tour goes on Google Maps under your own Google account, the one you're sign
 
 ## Review & publish
 
-Open **Review & publish** from the menu. Above the map, as in the tabs: how many will be published, the links, how many are aligned, then **▶ Preview tour**, the map button and the floor button. Touch and hold a number to see what it counts. Below the map, a row for each 360°:
+Open **Review & publish** from the menu. Above the map, as in the tabs: how many will be published, the links, how many are aligned, then **▶ Preview tour**, the map button and the floor button. Touch and hold a number to see what it counts. The map has the compass at its top left and **Back to your tour** at its bottom right, as in the tabs, and **⋮** at the top right sets the order. Tap a row to go to its dot, or tap a dot to find its row. Below the map, a row for each 360°:
 
 - **Will be published:** every placed, unlocked 360°. Anything not done yet is amber, with a shortcut back to it, like **Align ›**.
 - **Won't be published:** unplaced and locked 360°s.

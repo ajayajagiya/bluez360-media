@@ -157,6 +157,17 @@
   expect: tour-builder
 - q: "My 360 faces the wrong way on the map, how do I fix it?"
   expect: tour-builder
+# Place, Link and Align redesigned (app 2.8.3).
+- q: "I moved a dot by mistake, how do I undo it?"
+  expect: tour-builder
+- q: "How do I change the order my 360s are numbered in?"
+  expect: tour-builder
+- q: "How do I link several rooms one after another?"
+  expect: tour-builder
+- q: "How do I move a 360 to another floor?"
+  expect: tour-builder
+- q: "I added a floor by mistake, how do I delete it?"
+  expect: tour-builder
 - q: "How do I blur a face?"
   expect: tour-blur
 - q: "Does Detect find number plates?"
