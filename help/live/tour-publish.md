@@ -3,7 +3,7 @@ id: tour-publish
 title: Publish to Google Maps
 section: Tour Builder
 summary: Review & publish, what it costs, and the Google Maps status screen
-app_version: 2.8.0
+app_version: 2.8.4
 ---
 
 # Publish to Google Maps
@@ -45,7 +45,9 @@ Each 360° shows where it is:
 
 The screen checks with Google each time you open it. Pull down to check again — Google is asked at most once every 5 minutes. The first row is open when the screen opens; tap another row for more: its views, **Open in Google Maps**, **Share link** and **Remove from Google Maps**. Google Maps opens the 360 level, facing its front.
 
-Every 360° you publish from the app also goes into Bluez360's **Explore**, where people using Bluez360 see it once it's Live, with its place, your Google name and your Google picture. There's no switch to turn this off. See [Explore and the demo 360s](demos.md).
+Every 360° you publish from the app can also go into Bluez360's **Explore**. The best are picked for it, and people using Bluez360 see a picked one once it's Live, with its place, your Google name and your Google picture. There's no switch to turn this off. See [Explore and the demo 360s](demos.md).
+
+**In Bluez360 Explore.** A 360° picked for Explore shows the Explore icon on its row, just before its state. Open the row to see **In Bluez360 Explore**, with the date it was picked. The note at the top of the screen says what the icon means. One not picked shows nothing.
 
 ## Change a published tour
 

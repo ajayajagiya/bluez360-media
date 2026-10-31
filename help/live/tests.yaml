@@ -217,6 +217,8 @@
   expect: [demos, tour-publish]
 - q: "I published my 360 but it's not in Explore, why?"
   expect: [demos, tour-publish]
+- q: "What does the Explore icon on Google Maps status mean?"
+  expect: tour-publish
 - q: "Explore says Could not check for new 360s"
   expect: demos
 - q: "Explore says You're offline and the pictures are blank"

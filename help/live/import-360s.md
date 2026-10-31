@@ -3,7 +3,7 @@ id: import-360s
 title: Import 360s from your phone
 section: Projects and areas
 summary: Bringing 360s from another camera or app into an area, and why one is skipped
-app_version: 2.8.2
+app_version: 2.8.4
 ---
 
 # Import 360s from your phone
@@ -44,7 +44,7 @@ A 360 that has GPS in it arrives already placed in Tour Builder. One without GPS
 - Its date is the one the camera saved, or the file's date.
 - One wider than 8192 is made 8192×4096, the size of Bluez360's 4K stitches.
 - It can't be stitched again, because there are no original shots.
-- In Tour Builder it's like any other 360: you can blur it, and publishing it costs tokens as usual. Once published, it's listed in Bluez360's Explore.
+- In Tour Builder it's like any other 360: you can blur it, and publishing it costs tokens as usual. Once published, it can be picked for Bluez360's Explore.
 - A project with no location gets one from the 360s that have GPS.
 
 See also: [How your 360s are organised](projects-and-areas.md) · [Tour Builder](tour-builder.md) · [Add 360s from Google Maps](tour-import.md)

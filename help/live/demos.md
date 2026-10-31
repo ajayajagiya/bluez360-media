@@ -3,7 +3,7 @@ id: demos
 title: Explore and the demo 360s
 section: Viewing
 summary: 360s people publish to Google Maps with Bluez360, and the sample 360s
-app_version: 2.8.0
+app_version: 2.8.4
 ---
 
 # Explore and the demo 360s
@@ -12,7 +12,7 @@ app_version: 2.8.0
 
 ## What's in the list
 
-- **360s from people using Bluez360.** Only ones published to Google Maps through the app, and only once Google has put them **Live**. Each card shows the place, and the name and picture of the person who published it, as Google Maps does.
+- **360s from people using Bluez360.** Only ones published to Google Maps through the app and picked for Explore, and only once Google has put them **Live**. Each card shows the place, and the name and picture of the person who published it, as Google Maps does.
 - **The demos**, posted by **Bluez360**:
   - **Statue of Unity** — Museum interior, Kevadia
   - **MSU Baroda** — Faculty of Technology and Engineering, Vadodara
@@ -31,7 +31,7 @@ app_version: 2.8.0
 
 ## Your own 360s in Explore
 
-Publish them to Google Maps with **Tour Builder** (see [Publish to Google Maps](tour-publish.md)). Each one shows in Explore once Google puts it Live, with your Google name and picture and your project's place. If that place is a pin you dropped without a name, the project's name is shown instead. There's no switch to leave one out.
+Publish them to Google Maps with **Tour Builder** (see [Publish to Google Maps](tour-publish.md)). The best are picked for Explore, and a picked one shows there once Google puts it Live, with your Google name and picture and your project's place. On **Google Maps status**, a picked one shows the Explore icon on its row. If that place is a pin you dropped without a name, the project's name is shown instead. There's no switch to leave one out.
 
 - **Remove from Google Maps** takes it out of Explore too.
 - One Google turns down, or one taken down on Google Maps itself, isn't shown.
