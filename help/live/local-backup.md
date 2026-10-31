@@ -3,7 +3,7 @@ id: local-backup
 title: Back up to your phone
 section: Sharing and backup
 summary: Saving a 360, area or project as a .bz360 file in Download/Bluez360
-app_version: 2.8.0
+app_version: 2.8.4
 ---
 
 # Back up to your phone
@@ -19,7 +19,7 @@ app_version: 2.8.0
 3. Choose what to include:
    - **Raw data**: the original shots (or video) the 360° was stitched from. Keep these if you may want to stitch again.
    - **Final 360°**: the finished 360° picture.
-   - **Tour data**: the tour from Tour Builder: floors, positions, links, blurs and Google Maps status. It's greyed with **No tour yet** when there isn't one, and it can't be backed up on its own.
+   - **Tour data**: the tour from Tour Builder: floors, positions, links, nadir fixes, colours, blurs and Google Maps status. A nadir fix goes only with **Final 360°**, because it fits only that picture. It's greyed with **No tour yet** when there isn't one, and it can't be backed up on its own.
 4. Tap **Back up**.
 
 The backup runs in the background. Progress shows in your notifications, with a **Cancel** button. When it's done you'll get "… saved" with a **Share** button, so you can also send the file somewhere safe, like your cloud storage.

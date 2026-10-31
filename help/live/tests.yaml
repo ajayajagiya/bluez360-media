@@ -168,6 +168,19 @@
   expect: tour-builder
 - q: "I added a floor by mistake, how do I delete it?"
   expect: tour-builder
+# Prep tour: Nadir fix and Colour (app 2.8.4).
+- q: "How do I remove the tripod from my 360?"
+  expect: tour-prep
+- q: "The shadow of the stick is still there after Auto fix"
+  expect: tour-prep
+- q: "Can I make my tour's colours brighter?"
+  expect: tour-prep
+- q: "What is Custom in Colour?"
+  expect: tour-prep
+- q: "Why did my blur go after I changed the colour?"
+  expect: tour-prep
+- q: "Can I blur all the faces at once?"
+  expect: tour-blur
 - q: "How do I blur a face?"
   expect: tour-blur
 - q: "Does Detect find number plates?"
@@ -186,6 +199,8 @@
   expect: tour-import
 - q: "Does a backup keep my tour?"
   expect: [local-backup, restore-backup]
+- q: "I restored a backup and my tripod fix is gone"
+  expect: [restore-backup, local-backup]
 - q: "What happens to my Google Maps photos if I delete my account?"
   expect: delete-account
 - q: "Will people see my name if I publish to Google Maps?"

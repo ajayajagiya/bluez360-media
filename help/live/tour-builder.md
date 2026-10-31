@@ -3,7 +3,7 @@ id: tour-builder
 title: Tour Builder
 section: Tour Builder
 summary: Making a project into a tour for Google Maps: opening it, the menu, and placing, linking and aligning your 360s
-app_version: 2.8.3
+app_version: 2.8.4
 ---
 
 # Tour Builder
@@ -19,7 +19,7 @@ If the project has no location yet, you'll see **Where is this property?** Tap *
 
 Only stitched 360°s are in Tour Builder. They're numbered 1, 2, 3… across the project, by name from A to Z, and the same number is on the map. To number them another way, tap **⋮** at the top right of Place, Link, Align or Review & publish: **Name A–Z**, **Name Z–A**, **Oldest first** or **Newest first**. Your choice is kept for every project.
 
-A locked 360° shows a lock. Tap **Unlock** under the map in Place, or tap it on the Blur screen.
+A locked 360° shows a lock. Tap **Unlock** under the map in Place, or tap it on a Prep tour screen.
 
 Tour Builder opens on the first step that isn't done yet. Everything is saved as you go. **Back to project**, at the bottom of the menu, leaves it.
 
@@ -27,7 +27,7 @@ Tour Builder opens on the first step that isn't done yet. Everything is saved as
 
 Tap ☰ for the steps. Each one gets a tick when it's done.
 
-- **Prep tour:** **Blur**, for faces and number plates.
+- **Prep tour:** **Nadir fix** for the tripod and its shadow, **Colour** for the tour's look ([how](tour-prep.md)), then **Blur** for faces and number plates.
 - **Build tour:** **Place**, **Link** and **Align**.
 - **Publish tour:** **Review & publish**, **Google Maps status** and **Add from Google Maps**.
 
@@ -79,4 +79,4 @@ Align makes each 360° face the right way, one floor at a time. The map is at th
 
 Each 360° starts facing where your phone's compass said, so you usually only check it. Line it up against the compass on the map. **Reset direction** goes back to what the compass said.
 
-See also: [Blur faces and number plates](tour-blur.md) · [Preview your tour](tour-preview.md) · [Publish to Google Maps](tour-publish.md) · [Add 360s from Google Maps](tour-import.md)
+See also: [Remove the tripod, and colour your tour](tour-prep.md) · [Blur faces and number plates](tour-blur.md) · [Preview your tour](tour-preview.md) · [Publish to Google Maps](tour-publish.md) · [Add 360s from Google Maps](tour-import.md)

@@ -60,6 +60,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 ## Tour Builder
 
 - `tour-builder` · **Tour Builder** — making a project into a tour for Google Maps: the menu, and placing, linking and aligning your 360s
+- `tour-prep` · **Remove the tripod, and colour your tour** — Nadir fix and Colour, Prep tour's first two steps
 - `tour-blur` · **Blur faces and number plates** — what Google turns down, and how to blur it
 - `tour-preview` · **Preview your tour** — walking through it in the app first
 - `tour-publish` · **Publish to Google Maps** — review, what it costs, and the status screen
