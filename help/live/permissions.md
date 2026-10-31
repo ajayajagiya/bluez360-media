@@ -14,6 +14,8 @@ After you first sign in, a **Before you start** screen explains three permission
 - **Location** – to pin each 360° on the map. It's only used while you're using the app, never in the background. It's optional: you can capture without it.
 - **Notifications** – to tell you when a stitch is done.
 
+**Photos and videos** is asked only when you import 360s from your phone, so each one keeps where it was taken. Say no and they still import, just without a place. See [Import 360s from your phone](import-360s.md).
+
 **Google Maps** is asked separately, by Google, not Android: the first time you publish a tour or add 360°s from Google Maps in Tour Builder. **Disconnect**, on Review & publish, takes it back. See [Publish to Google Maps](tour-publish.md).
 
 ## If you said no

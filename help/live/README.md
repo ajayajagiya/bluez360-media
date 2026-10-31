@@ -23,6 +23,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 - `project-explorer` · **The Project explorer** — the ☰ menu for jumping between projects and areas, and the Home button
 - `rename-and-delete` · **Rename, edit and delete** — projects, areas and 360s
 - `project-location` · **Set a project's location** — search, drop a pin, or use where you are
+- `import-360s` · **Import 360s from your phone** — bringing 360s from another camera or app into an area, and why one is skipped
 
 ## Capture
 

@@ -43,7 +43,7 @@ Each 360° shows where it is:
 - **Rejected:** tap the row for Google's reason, then **Fix in Tour Builder**.
 - **Changed:** edited since it was published. It's updated the next time you publish.
 
-The screen checks with Google each time you open it. Pull down to check again — Google is asked at most once every 5 minutes. Tap a row for more: its views, **Open in Google Maps**, **Share link** and **Remove from Google Maps**.
+The screen checks with Google each time you open it. Pull down to check again — Google is asked at most once every 5 minutes. The first row is open when the screen opens; tap another row for more: its views, **Open in Google Maps**, **Share link** and **Remove from Google Maps**. Google Maps opens the 360 level, facing its front.
 
 Every 360° you publish from the app also goes into Bluez360's **Explore**, where people using Bluez360 see it once it's Live, with its place, your Google name and your Google picture. There's no switch to turn this off. See [Explore and the demo 360s](demos.md).
 

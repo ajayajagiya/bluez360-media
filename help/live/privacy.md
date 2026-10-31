@@ -11,6 +11,7 @@ app_version: 2.8.0
 ## What stays on your phone
 
 - Your photos and finished 360s. They are never uploaded to us. Only the ones you publish to Google Maps leave your phone, and they go to your own Google account (see below).
+- 360s you import from your phone, with the place and date read from them. Only the photos you pick are read.
 - Your projects and areas, with their names, notes and places, except the place shown in Explore for a 360 you publish (see below).
 - Your **.bz360** backups. We don't get a copy.
 

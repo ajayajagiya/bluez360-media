@@ -197,6 +197,12 @@
   expect: tour-publish
 - q: "Can I bring my old Google Maps 360s into a project?"
   expect: tour-import
+- q: "How do I add 360 photos from my Insta360 to an area?"
+  expect: import-360s
+- q: "Why was my photo skipped when I imported it?"
+  expect: import-360s
+- q: "My imported 360 has no location on the map"
+  expect: import-360s
 - q: "Does a backup keep my tour?"
   expect: [local-backup, restore-backup]
 - q: "I restored a backup and my tripod fix is gone"
