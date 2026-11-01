@@ -17,7 +17,7 @@ app_version: 2.8.4
 
 If the project has no location yet, you'll see **Where is this property?** Tap **Add location**, or **Add from Google Maps** to start from 360°s you've already published.
 
-Only stitched 360°s are in Tour Builder. They're numbered 1, 2, 3… across the project, by name from A to Z, and the same number is on the map. To number them another way, tap **⋮** at the top right of Place, Link, Align or Review & publish: **Name A–Z**, **Name Z–A**, **Oldest first** or **Newest first**. Your choice is kept for every project.
+Only stitched 360°s are in Tour Builder. They're numbered 1, 2, 3… across the project, by name from A to Z, and the same number is on the map. To number them another way, tap **⋮** at the top right of Place, Link, Align or Review & publish: **Name A–Z**, **Name Z–A**, **Oldest first** or **Newest first**. Your choice is kept for every project. **Add from Google Maps** has a **⋮** of its own, for its list only.
 
 A locked 360° shows a lock. Tap **Unlock** under the map in Place, or tap it on a Prep tour screen.
 

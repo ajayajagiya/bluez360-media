@@ -199,6 +199,10 @@
   expect: tour-publish
 - q: "Can I bring my old Google Maps 360s into a project?"
   expect: tour-import
+- q: "How do I sort my Google Maps 360s by most views when adding them?"
+  expect: tour-import
+- q: "More 360s keep appearing in Add from Google Maps, is it still loading?"
+  expect: tour-import
 - q: "How do I add 360 photos from my Insta360 to an area?"
   expect: import-360s
 - q: "Why was my photo skipped when I imported it?"
