@@ -11,8 +11,8 @@ app_version: 2.8.0
 Already have 360°s on Google Maps, made with any app? Bring them into a project and build your tour from them.
 
 1. In Tour Builder, open the menu (☰) and tap **Add from Google Maps**. A project with no location offers it too.
-2. Your published 360°s are listed, newest first, with their place, date and views. You can search by place, or tap **⋮** to sort by name, date or views; it's back to newest first next time. The first ones show straight away and the rest join the list as they load, so if you have a lot, more keep appearing for a moment.
-   Tap the Google Maps pin on a row to see that 360° in Google Maps.
+2. Your published 360°s are listed, **Newest first**, with their place, the date it was taken and its views, like 12.4K or 1.2M. You can search by place. To sort them another way, tap **⋮** at the top right: **Name A–Z**, **Name Z–A**, **Newest first**, **Oldest first**, **Most views** or **Fewest views**. It's back to **Newest first** next time. The first ones show straight away and the rest join the list as they load, so if you have a lot, more keep appearing for a moment. If the bar says **Could not load them all**, the ones shown stay: open **Add from Google Maps** again for the rest.
+   Tap the **Google Maps pin** on a row to see that 360° in Google Maps, in Street View. Only rows Google has a link for have one. If the phone can't open it, the bar says **Could not open Google Maps**.
 3. Tap the download button on each one you want. You can download several at once. Stay on the screen until they've finished.
 4. Tap **Add N to project**. Tour Builder goes to the **Place** tab.
 
