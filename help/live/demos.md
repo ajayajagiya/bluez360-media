@@ -2,26 +2,23 @@
 id: demos
 title: Explore and the demo 360s
 section: Viewing
-summary: 360s people publish to Google Maps with Bluez360, and the sample 360s
+summary: 360s people publish to Google Maps with Bluez360, and the sample 360
 app_version: 2.8.4
 ---
 
 # Explore and the demo 360s
 
-**Explore** is the first tab in the bar at the bottom of the screen. It shows 360s people have published to Google Maps with Bluez360, from anywhere in the world: the 50 newest, newest first. The three sample 360s that come with the app are always at the end.
+**Explore** is the first tab in the bar at the bottom of the screen. It shows 360s people have published to Google Maps with Bluez360, from anywhere in the world: the 50 newest, newest first. The sample 360 that comes with the app is always at the end.
 
 ## What's in the list
 
 - **360s from people using Bluez360.** Only ones published to Google Maps through the app and picked for Explore, and only once Google has put them **Live**. Each card shows the place, and the name and picture of the person who published it, as Google Maps does.
-- **The demos**, posted by **Bluez360**:
-  - **Statue of Unity** — Museum interior, Kevadia
-  - **MSU Baroda** — Faculty of Technology and Engineering, Vadodara
-  - **Rooftop** — Housing scheme, Vadodara
+- **The demo**, posted by **Bluez360**: **MSU Baroda** — Faculty of Technology and Engineering, Vadodara
 
 ## Open one
 
 - **Tap a card** to open it. A published 360 opens in Google's Street View viewer, inside the app. A demo opens in Bluez360's own viewer. Both have the same buttons along the bottom: see [The 360 viewer](viewer.md).
-- **Tap the Google Maps pin** on the right of a card to see that 360 in Google Maps, in Street View. The MSU Baroda demo has one too. If the phone can't open it, the bar says **Could not open Google Maps**: check that Google Maps, or a web browser, is installed and turned on.
+- **Tap the Google Maps pin** on the right of a card to see that 360 in Google Maps, in Street View. The demo has one too. If the phone can't open it, the bar says **Could not open Google Maps**: check that Google Maps, or a web browser, is installed and turned on.
 
 ## New 360s
 
@@ -40,8 +37,8 @@ Publish them to Google Maps with **Tour Builder** (see [Publish to Google Maps](
 ## Good to know
 
 - Explore is free. Opening a 360 here never uses tokens.
-- Published 360s come from Google, so they need a connection. The demos are built into the app, so they are always there, even after a reinstall.
-- **You're offline** under the title means the phone has no internet. The list and the demos still show, but the pictures don't load. When the internet is back, the bar goes away and the pictures load.
+- Published 360s come from Google, so they need a connection. The demo is built into the app, so it is always there, even after a reinstall.
+- **You're offline** under the title means the phone has no internet. The list and the demo still show, but the pictures don't load. When the internet is back, the bar goes away and the pictures load.
 - A card with a grey 360 sign instead of a picture: Google hasn't made a picture for it yet. It still opens.
 - If someone's picture doesn't load, the first letter of their name shows instead.
 - The first time you open Explore, each demo may take a moment to appear. If one says it **could not be opened**, tap **Try again**.

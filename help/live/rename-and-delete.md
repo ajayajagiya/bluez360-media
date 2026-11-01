@@ -3,7 +3,7 @@ id: rename-and-delete
 title: Rename, edit and delete
 section: Projects and areas
 summary: Projects, areas and 360s
-app_version: 2.8.0
+app_version: 2.8.4
 ---
 
 # Rename, edit and delete
@@ -24,6 +24,7 @@ Choose **Delete**. A message says **Deleted** with an **UNDO** button. Tap **UND
 
 - Deleting a **project** also deletes all its areas and the 360s in them.
 - Deleting an **area** also deletes the 360s in it.
+- Their Tour Builder edits go too (Nadir fix, Colour and Blur), and a deleted project's tour. 360s already published stay on Google Maps.
 
 ## Other menu options
 

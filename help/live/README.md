@@ -43,7 +43,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 
 - `viewer` · **The 360 viewer** — look around, zoom, turn 90°, auto-rotate, compass mode, reset — and 360s from Explore
 - `open-from-gallery` · **Open a 360 from your phone's gallery** — viewing 360s from other apps in Bluez360
-- `demos` · **Explore and the demo 360s** — the Explore tab: 360s people publish to Google Maps with Bluez360, and the sample 360s
+- `demos` · **Explore and the demo 360s** — the Explore tab: 360s people publish to Google Maps with Bluez360, and the sample 360
 
 ## Tokens
 
