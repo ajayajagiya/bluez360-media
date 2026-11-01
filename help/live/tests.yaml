@@ -65,6 +65,8 @@
   expect: viewer
 - q: "What does compass mode do?"
   expect: viewer
+- q: "Why does my 360 look soft for a second when it opens?"
+  expect: viewer
 - q: "Can I view a 360 photo from my phone's gallery in Bluez360?"
   expect: open-from-gallery
 - q: "Why does it say that isn't a 360° photo?"

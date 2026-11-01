@@ -8,7 +8,7 @@ app_version: 2.8.0
 
 # The 360 viewer
 
-Open an area and tap a 360 to view it. A percentage shows while it loads.
+Open an area and tap a 360 to view it. It opens straight away, a little soft, and sharpens a moment later once all of it has loaded. If you're dragging, it sharpens when you let go.
 
 - **Look around:** drag anywhere on the photo. What you touch stays under your finger, however far you've zoomed. Flick to let it glide on.
 - **Zoom:** pinch, or use the buttons below. A pinch zooms in on the spot between your fingers.
