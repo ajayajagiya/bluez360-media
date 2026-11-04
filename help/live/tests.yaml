@@ -137,6 +137,12 @@
   expect: share-image
 - q: "Why were some of my 360s skipped when I shared the project?"
   expect: share-image
+- q: "Can I turn my 360 into a video for Instagram reels?"
+  expect: share-video
+- q: "Where is the video saved after Share as video?"
+  expect: share-video
+- q: "Why is Share as video greyed out?"
+  expect: share-video
 - q: "How do I back up a whole project before deleting it from my phone?"
   expect: local-backup
 - q: "Where is my backup file saved?"

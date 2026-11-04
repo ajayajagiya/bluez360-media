@@ -55,6 +55,7 @@ Help & support), or email **bluez360.studio@gmail.com**.
 ## Sharing and backup
 
 - `share-image` · **Share a 360 image** — sending a 360 to other apps
+- `share-video` · **Share a 360 as a video** — an 18-second tall video that looks round the room once, saved in Download/Bluez360/Video
 - `local-backup` · **Back up to your phone** — saving a 360, area or project as a `.bz360` file in Download/Bluez360
 - `restore-backup` · **Restore a backup** — opening a `.bz360` file, and what gets skipped
 

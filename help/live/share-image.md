@@ -31,4 +31,4 @@ Sharing an area or a project sends every finished 360° in it at once.
 - **Upload to cloud** in the same menu is marked **Coming soon**.
 - To keep a full copy for yourself, including the original shots, use **Local backup** instead.
 
-See also: [Back up to your phone](local-backup.md) · [What tokens are](tokens.md)
+See also: [Share a 360 as a video](share-video.md) · [Back up to your phone](local-backup.md) · [What tokens are](tokens.md)
