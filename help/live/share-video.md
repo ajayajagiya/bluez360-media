@@ -3,7 +3,7 @@ id: share-video
 title: Share a 360 as a video
 section: Sharing and backup
 summary: Turning a 360 into a short tall video
-app_version: 2.8.4
+app_version: 2.8.5
 ---
 
 # Share a 360° as a video
